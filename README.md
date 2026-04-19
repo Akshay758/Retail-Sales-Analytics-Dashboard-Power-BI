@@ -10,7 +10,7 @@ An end-to-end interactive Power BI dashboard for retail sales performance monito
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](Screenshots/dashboard_overview.png)
+![Dashboard Screenshot](Screenshot(68).png)
 
 ---
 
